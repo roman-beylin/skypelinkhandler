@@ -1,5 +1,4 @@
 #!/bin/sh
-
 qmake && make
 mkdir -p ~/.skypehandler
 cp ./skypehandler ~/.skypehandler/
